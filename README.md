@@ -47,7 +47,7 @@ The benchmark data sets are shown in Fig.1. Table 2 shows the detailed descripti
 
 ## 💡 Citation
 
-Please consider citing the following papers when utilizing WHU-TLS:
+Please consider citing the following papers when utilizing WHU-TLS or finding that the following projects benefit your work:
 
 ```
 @article{dong2017novel,
@@ -86,6 +86,22 @@ Please consider citing the following papers when utilizing WHU-TLS:
   booktitle={Proceedings of the 30th ACM International Conference on Multimedia},
   pages={1630--1641},
   year={2022}
+}
+
+@article{wang2023roreg,
+  title={RoReg: Pairwise Point Cloud Registration with Oriented Descriptors and Local Rotations},
+  author={Wang, Haiping and Liu, Yuan and Hu, Qingyong and Wang, Bing and Chen, Jianguo and Dong, Zhen and Guo, Yulan and Wang, Wenping and Yang, Bisheng},
+  journal={IEEE Transactions on Pattern Analysis and Machine Intelligence},
+  year={2023},
+  publisher={IEEE}
+}
+
+@inproceedings{
+wang2023robust,
+title={Robust Multiview Point Cloud Registration with Reliable Pose Graph Initialization and History Reweighting},
+author={Haiping Wang and Yuan Liu and Zhen Dong and Yulan Guo and Yu-Shen Liu and Wenping Wang and Bisheng Yang},
+booktitle={Conference on Computer Vision and Pattern Recognition},
+year={2023}
 }
 ```
 
