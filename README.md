@@ -4,7 +4,7 @@
 </h3>
 
 <h3 align="center">
-ISPRS J 2017; ESI highly cited
+ISPRS J 2020; ESI highly cited
 </h3>
 
 <h4 align="center">
@@ -29,11 +29,54 @@ Please fill out this [Data Request](http://3s.whu.edu.cn/ybs/en/Data_Request.htm
 ## 📌 Benchmark Details
 The benchmark data sets are shown in Fig.1. Table 2 shows the detailed descriptions of the WHU-TLS data sets in terms of the data acquisition equipment, number of scans, number of points, range covered, organization of the environment, location of the environment, and the minimum and maximum overlaps between pairwise point clouds. For more details, please check our [paper](https://www.sciencedirect.com/science/article/abs/pii/S0924271620300836)!
 
-<img src="details/detail.png" alt="Network" style="zoom:50%;" />
+<img src="detail.png" alt="Network" style="zoom:50%;" />
 
-<img src="details/detail2.png" alt="Network" style="zoom:50%;" />
+<img src="detail2.png" alt="Network" style="zoom:50%;" />
 
 
+## 💡 Citation
+
+Please consider citing the following papers when utilizing WHU-TLS:
+
+```
+@article{dong2017novel,
+  title={A novel binary shape context for 3D local surface description},
+  author={Dong, Zhen and Yang, Bisheng and Liu, Yuan and Liang, Fuxun and Li, Bijun and Zang, Yufu},
+  journal={ISPRS Journal of Photogrammetry and Remote Sensing},
+  volume={130},
+  pages={431--452},
+  year={2017},
+  publisher={Elsevier}
+}
+
+@article{dong2020registration,
+  title={Registration of large-scale terrestrial laser scanner point clouds: A review and benchmark},
+  author={Dong, Zhen and Liang, Fuxun and Yang, Bisheng and Xu, Yusheng and Zang, Yufu and Li, Jianping and Wang, Yuan and Dai, Wenxia and Fan, Hongchao and Hyypp{\"a}, Juha and others},
+  journal={ISPRS Journal of Photogrammetry and Remote Sensing},
+  volume={163},
+  pages={327--342},
+  year={2020},
+  publisher={Elsevier}
+}
+
+@article{dong2018hierarchical,
+  title={Hierarchical registration of unordered TLS point clouds based on binary shape context descriptor},
+  author={Dong, Zhen and Yang, Bisheng and Liang, Fuxun and Huang, Ronggang and Scherer, Sebastian},
+  journal={ISPRS Journal of Photogrammetry and Remote Sensing},
+  volume={144},
+  pages={61--79},
+  year={2018},
+  publisher={Elsevier}
+}
+
+@inproceedings{wang2022you,
+  title={You only hypothesize once: Point cloud registration with rotation-equivariant descriptors},
+  author={Wang, Haiping and Liu, Yuan and Dong, Zhen and Wang, Wenping},
+  booktitle={Proceedings of the 30th ACM International Conference on Multimedia},
+  pages={1630--1641},
+  year={2022}
+}
+```
 
 
 
