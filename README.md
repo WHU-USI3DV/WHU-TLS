@@ -1,1 +1,3 @@
 # WHU-TLS
+WHU-USI3DV, together with Technical University of Munich and Norwegian University of Science and Technology, released the large-scale point cloud registration benchmark WHU-TLS, covering 11 different scenarios including subway, high-speed rail, mountain, forest, park, campus, residence, river bank, cultural heritage building, underground mine, tunnel, etc.. WHU-TLS containS 115 scans and 1.74 billion 3D points in total and provides the ground truth scan poses for pairwise and multiview registration algorithm evaluation.
+For more details, please check our [paper](https://www.sciencedirect.com/science/article/abs/pii/S0924271620300836)!
