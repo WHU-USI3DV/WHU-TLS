@@ -26,6 +26,17 @@ The proposed the benchmark dataset consists of 115 scans and in total over 1740 
 ## 💡 Download Link
 Please fill out this [Data Request](http://3s.whu.edu.cn/ybs/en/Data_Request.htm). We will sent the download links to you.
 
+## 📂 Related Open Source Projects
+Check our works on point cloud registration:
+- Pairwise Registration
+  - 📂[BSC (ISPRS J'17)](https://github.com/YuePanEdward/GH-ICP/blob/master/include/binary_feature_extraction.hpp)
+  - 📂[YOHO (ACM MM'22)](https://github.com/HpWang-whu/YOHO)
+  - 📂[RoReg (TPAMI'23)](https://github.com/HpWang-whu/RoReg)
+- Multiview Registration
+  - 📂[SGHR (CVPR'23)](https://github.com/WHU-USI3DV/SGHR)
+
+
+
 ## 📌 Benchmark Details
 The benchmark data sets are shown in Fig.1. Table 2 shows the detailed descriptions of the WHU-TLS data sets in terms of the data acquisition equipment, number of scans, number of points, range covered, organization of the environment, location of the environment, and the minimum and maximum overlaps between pairwise point clouds. For more details, please check our [paper](https://www.sciencedirect.com/science/article/abs/pii/S0924271620300836)!
 
