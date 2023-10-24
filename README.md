@@ -24,7 +24,7 @@ Zhen Dong<sup>1</sup>, Fuxun Liang<sup>1</sup>, Bisheng Yang<sup>&dagger;,1</sup
 The benchmark WHU-TLS consists of 115 scans and in total over 1740 million 3D points collected from 11 different environments (i.e., subway station, high-speed railway platform, mountain, forest, park, campus, residence, riverbank, heritage building, underground excavation and tunnel) with varying point density, clutter, and occlusion. The ground-truth transformations, the transformations calculated by [Dong et. al. (2018)](https://www.sciencedirect.com/science/article/abs/pii/S0924271618301813) and the registration graphs are also provided for researchers, which aims to yield better comparisons and insights into the strengths and weaknesses of different registration approaches on a common base. We hope the benchmark meets the needs of the research community and becomes an important dataset for the development of cutting-edge TLS point cloud registration methods. In addition, the proposed benchmark also provides suitable datasets for the applications of safe railway operation, river survey and regulation, forest structure assessment, cultural heritage conservation, landslide monitoring and underground asset management.
 
 ## 💡 Download Link
-Please fill out this [Data Request](http://3s.whu.edu.cn/ybs/en/Data_Request.htm). We will sent the download links to you.
+Please fill out this [Data Request](https://forms.gle/D7N529BQJ2ZbJMzr7). We will sent the download links to you.
 
 ## 📂 Related Open Source Projects
 Check our works on point cloud registration:
